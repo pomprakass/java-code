@@ -7,6 +7,11 @@
     <class name="com.test.FacebookTest"/>  
   </classes>
   </test>
+   <test name="walletHubSignUp" >
+   <classes>
+    <class name="com.test.WalletHubTest"/>  
+  </classes>
+  </test>
    <test name="reviewSubmit" >
    <classes>
     <class name="com.test.WalletHubTest"/>  
