@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Assignment" verbose="1" >
+<parameter name="browser" value="chrome"/>
+  
+ <test name="fbLogin" >
+   <classes>
+    <class name="com.test.FacebookTest"/>  
+  </classes>
+  </test>
+   <test name="reviewSubmit" >
+   <classes>
+    <class name="com.test.WalletHubTest"/>  
+  </classes>
+  </test>
+  
+</suite> <!-- Suite -->
